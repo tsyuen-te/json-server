@@ -1,8 +1,8 @@
 {
     "config": {
         "layout": {
-            "name": "ClassicLayout",
-            "csstheme": "default",
+            "name": "SideLayout",
+            "csstheme": "classic",
             "components": [
                 {
                     "name": "header",
